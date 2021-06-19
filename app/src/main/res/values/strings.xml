@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PreparationToInterview</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ваши маркеры</string>
+    <string name="main_page">Главная</string>
+    <string name="setting_page">Настройки</string>
+</resources>
